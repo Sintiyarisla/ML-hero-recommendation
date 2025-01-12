@@ -1,128 +1,128 @@
-hero_name,role,difficulty_overall,movement_spd,magic_defense,mana,hp_regen,physical_atk,physical_defense,hp,attack_speed,mana_regen,win_rate,pick_rate,ban_rate,release_year,lane
-Eudora,Mage,4.0,250,10,468,38,112,19,2254,0.8,16.0,48.76,1.69,0.36,2016,Mid
-Bruno,Marksman,5.0,240,10,439,30,128,18,2522,0.85,15.0,48.95,1.15,0.11,2016,Gold
-Bane,Fighter,5.0,260,10,422,42,117,23,2659,0.85,12.0,47.66,0.13,0.1,2016, Jungle
-Minotaur,Tank,3.0,260,10,0,44,123,23,2709,0.73,0.0,52.29,0.21,0.09,2016,Roam
-Hayabusa,Assassin,8.0,260,10,10,37,117,17,2629,0.85,0.0,51.72,1.56,3.44,2016,Jungle
-Gord,Mage,7.0,240,10,570,32,110,13,2478,0.77,25.0,50.24,0.48,0.09,2016,Mid
-Clint,Marksman,4.0,240,10,450,36,115,20,2530,0.84,15.0,49.94,0.71,0.08,2016,Gold
-Alucard,Fighter,5.0,260,10,0,39,123,21,2821,0.9,0.0,48.92,1.52,0.23,2016,Jungle
-Alice,Mage,6.0,240,10,493,36,114,21,2573,0.8,18.0,50.23,0.37,0.24,2016,EXP
-Rafaela,Support,3.0,245,10,545,36,117,15,2441,0.79,23.0,49.98,0.18,0.29,2016,Roam
-Fanny,Assassin,10.0,265,0,0,33,126,19,2526,0.89,0.0,49.05,0.92,4.48,2016,Jungle
-Natalia,Assassin,6.0,250,10,486,35,121,18,2589,0.89,15.0,47.76,0.41,61.29,2016,Roam
-Freya,Fighter,5.0,260,10,462,49,109,22,2801,0.87,14.0,51.47,0.38,0.06,2016,EXP
-Kagura,Mage,9.0,240,10,519,35,118,19,2556,0.81,21.0,53.04,0.71,0.11,2016,Mid
-Akai,Tank,4.0,260,0,422,42,115,24,2769,0.85,12.0,49.28,0.61,0.06,2016,Roam
-Lolita,Tank,5.0,260,10,480,48,115,27,2679,0.78,12.0,56.49,0.13,0.05,2016,Roam
-Miya,Marksman,3.0,240,10,445,30,129,17,2524,0.85,15.0,49.11,2.35,0.42,2016,Gold
-Zilong,Fighter,5.0,265,10,405,35,123,25,2689,0.96,16.0,48.05,2.64,0.49,2016,EXP
-Franco,Tank,5.0,260,10,440,46,116,25,2709,0.82,10.0,47.64,2.56,0.52,2016,Roam
-Karina,Assassin,7.0,260,10,431,39,121,20,2633,0.9,16.0,49.9,1.02,1.68,2016,Jungle
-Sun,Fighter,5.0,260,10,400,41,114,23,2758,0.91,16.0,51.06,1.85,0.7,2016,EXP
-Saber,Assassin,6.0,260,10,443,35,118,17,2599,0.87,16.0,46.62,1.55,0.71,2016,Jungle
-Chou,Fighter,6.0,260,10,0,39,121,23,2708,0.88,0.0,48.88,3.17,0.82,2016,EXP
-Tigreal,Tank,3.0,260,10,450,42,112,25,2890,0.82,12.0,49.82,3.71,1.14,2016,Roam
-Nana,Mage,4.0,250,10,510,34,115,17,2501,0.86,18.0,46.56,1.99,1.22,2016,Mid
-Balmond,Fighter,3.0,260,10,0,47,119,25,2836,0.85,0.0,46.3,1.96,1.22,2016,Jungle
-Layla,Marksman,4.0,240,10,424,27,130,15,2500,0.85,14.0,48.09,2.79,1.32,2016,Gold
-Harley,Mage,6.0,240,10,490,36,114,19,2501,0.84,18.0,52.53,1.24,1.67,2017,Jungle
-Hilda,Fighter,4.0,260,10,0,42,123,24,2789,0.84,0.0,47.08,0.49,0.15,2017,Roam
-Roger,Fighter,5.0,240,10,450,36,128,22,2730,0.84,15.0,48.33,1.0,0.16,2017,Jungle
-Estes,Support,4.0,240,10,545,36,120,13,2221,0.8,18.0,51.1,0.16,0.21,2017,Roam
-Gatotkaca,Tank,7.0,260,10,420,42,120,20,2629,0.81,12.0,52.58,2.03,2.69,2017,Roam
-Zhask,Mage,4.0,240,10,490,34,107,15,2401,0.8,20.0,52.74,0.79,2.32,2017,Mid
-Yi Sun Shin,Marksman,6.0,250,10,438,36,124,18,2520,0.85,15.0,55.32,1.19,0.75,2017,Jungle
-Pharsa,Mage,7.0,240,10,490,34,109,17,2421,0.79,18.0,47.79,1.41,0.69,2017,Mid
-Odette,Mage,6.0,240,10,495,34,105,18,2491,0.8,23.0,49.19,0.75,0.16,2017,Mid
-Lapu Lapu,Fighter,5.0,260,10,0,35,119,21,2628,0.9,16.0,49.13,0.76,0.15,2017,EXP
-Argus,Fighter,5.0,260,10,0,40,124,21,2628,0.91,0.0,54.26,0.41,0.13,2017,EXP
-Helcurt,Assassin,6.0,255,10,440,35,121,17,2599,0.87,16.0,48.12,0.49,33.92,2017,Jungle
-Vexana,Mage,7.0,245,10,490,38,112,17,2481,0.8,20.0,50.47,0.1,0.04,2017,Mid
-Karrie,Marksman,9.0,240,10,440,40,120,17,2578,0.83,15.0,45.19,0.72,0.05,2017,Gold
-Aurora,Mage,6.0,240,10,750,34,110,17,2501,0.8,23.0,47.93,0.23,0.03,2017,Mid
-Ruby,Fighter,7.0,260,0,430,30,114,23,2859,0.85,14.0,52.32,0.51,0.05,2017,EXP
-Moskov,Marksman,7.0,240,10,420,32,125,16,2455,0.81,15.0,49.27,0.48,0.06,2017,Gold
-Johnson,Tank,5.0,255,10,0,42,115,27,2809,0.82,12.0,51.19,1.43,32.52,2017,Roam
-Hylos,Tank,3.0,260,10,430,92,105,17,3309,0.82,12.0,53.4,0.75,0.08,2017,Roam
-Alpha,Fighter,7.0,260,10,453,39,121,20,2646,0.96,31.0,48.5,0.25,0.04,2017,Jungle
-Irithel,Marksman,7.0,260,10,438,35,118,17,2540,0.82,15.0,51.52,0.38,0.03,2017,Gold
-Cyclops,Mage,6.0,240,10,500,38,112,18,2521,0.8,20.0,52.03,1.07,0.1,2017,Mid
-Lancelot,Assassin,7.0,260,10,450,35,124,16,2549,0.85,16.0,46.71,1.42,24.88,2017,Jungle
-Grock,Tank,4.0,260,10,430,42,135,21,2819,0.81,12.0,47.69,0.14,0.02,2017,Roam
-Diggie,Support,3.0,250,10,490,36,115,16,2351,0.8,20.0,53.93,0.25,3.84,2017,Roam
-Angela,Support,3.0,240,10,515,34,115,15,2421,0.79,18.0,48.5,1.53,1.36,2018,Roam
-Minsitthar,Fighter,3.0,260,10,380,37,121,23,2698,0.85,16.0,50.54,0.17,0.03,2018,EXP
-Thamuz,Fighter,6.0,250,10,0,37,107,22,2758,0.84,0.0,47.39,0.33,0.03,2018,EXP
-Leomord,Fighter,6.0,240,10,0,35,126,21,2738,0.84,0.0,50.1,0.31,0.03,2018,Jungle
-Claude,Marksman,9.0,240,10,450,40,97,14,2370,0.82,16.0,51.76,1.33,0.98,2018,Gold
-Chang'e,Mage,7.0,240,10,505,34,115,16,2301,0.8,21.0,52.9,2.07,0.93,2018,Mid
-Lunox,Mage,7.0,240,10,540,34,115,15,2521,0.8,23.0,49.54,0.24,0.03,2018,Mid
-Martis,Fighter,5.0,260,10,0,35,128,25,2738,0.86,0.0,45.0,0.15,0.02,2018,Jungle
-Jawhead,Fighter,8.0,255,10,430,39,119,24,2778,0.9,16.0,50.91,1.59,1.72,2018,EXP
-Hanzo,Assassin,6.0,260,10,0,35,118,17,2594,0.87,0.0,50.63,0.39,11.32,2018,Jungle
-Uranus,Tank,5.0,260,10,455,32,115,20,2489,0.83,12.0,49.37,0.69,0.51,2018,EXP
-Gusion,Assassin,9.0,260,10,460,39,119,18,2578,0.89,16.0,49.7,1.75,2.8,2018,Jungle
-Hanabi,Marksman,6.0,245,10,390,30,105,17,2510,0.85,15.0,52.41,2.04,0.5,2018,Gold
-Belerick,Tank,4.0,250,10,450,42,110,15,2719,0.81,12.0,52.56,0.41,0.05,2018,Roam
-Lesley,Marksman,6.0,240,10,0,36,131,14,2490,0.82,0.0,48.92,1.94,0.4,2018,Gold
-Harith,Mage,8.0,240,10,490,36,114,19,2701,0.84,18.0,47.92,0.31,0.06,2018,Mid
-Kadita,Mage,7.0,240,10,495,36,105,18,2491,0.8,18.0,50.85,0.51,0.32,2018,Mid
-Selena,Assassin,7.0,240,10,490,34,110,15,2401,0.8,18.0,51.22,1.31,2.76,2018,Mid
-Valir,Mage,6.0,245,10,495,34,105,20,2516,0.8,18.0,50.04,0.63,0.16,2018,Mid
-Kaja,Support,6.0,270,10,400,52,120,16,2609,0.84,12.0,51.6,0.17,0.11,2018,Roam
-Kimmy,Marksman,7.0,245,10,100,40,104,22,2570,0.82,0.0,54.21,0.16,0.04,2018,Gold
-Aldous,Fighter,7.0,260,10,405,49,129,21,2718,0.83,18.0,51.69,1.15,10.22,2018,EXP
-Esmeralda,Mage,4.0,240,10,502,36,114,21,2573,0.8,20.0,49.14,1.25,42.29,2019,EXP
-Vale,Mage,7.0,250,10,490,34,115,15,2401,0.8,21.0,51.73,1.88,2.24,2019,Mid
-Wanwan,Marksman,8.0,230,10,424,27,100,15,2540,0.82,14.0,53.26,1.62,20.35,2019,Gold
-Khufra,Tank,5.0,255,10,460,47,117,19,2859,0.78,15.0,51.46,0.98,2.76,2019,Roam
-Terizla,Fighter,6.0,255,10,430,54,129,19,2728,0.8,21.0,47.0,0.15,0.02,2019,EXP
-Guinevere,Fighter,7.0,260,0,0,39,126,18,2528,0.91,0.0,50.79,2.58,10.02,2019,EXP
-X.Borg,Fighter,7.0,260,10,0,39,117,25,1138,0.86,0.0,48.76,0.99,0.07,2019,EXP
-Dyrroth,Fighter,6.0,265,10,0,41,117,2,2758,0.91,0.0,46.11,0.87,0.07,2019,EXP
-Faramis,Support,6.0,245,10,500,34,118,20,2543,0.78,19.0,50.29,0.05,0.07,2019,Mid
-Lylia,Mage,6.0,245,10,500,34,113,17,2501,0.8,19.0,53.62,0.4,0.08,2019,Mid
-Masha,Fighter,7.0,250,10,0,19,101,12,1948,0.8,0.0,54.13,0.3,0.09,2019,EXP
-Ling,Assassin,8.0,260,10,0,39,125,18,2578,0.81,0.0,48.18,0.46,11.24,2019,Jungle
-Baxia,Tank,7.0,240,10,422,42,125,23,2769,0.8,15.0,53.55,0.44,0.1,2019,Jungle
-Silvanna,Fighter,4.0,255,10,430,39,126,22,2828,0.91,16.0,52.65,3.06,9.59,2019,EXP
-Badang,Fighter,6.0,255,10,0,40,119,23,2708,0.9,0.0,49.78,1.06,0.14,2019,EXP
-Granger,Marksman,6.0,240,10,0,27,110,15,2490,0.81,0.0,47.37,1.43,0.17,2019,Jungle
-Khaleed,Fighter,8.0,250,10,0,35,109,23,2778,0.8,0.0,52.44,0.39,0.1,2020,EXP
-Popol and Kupa,Marksman,7.0,240,10,445,30,98,17,2225,0.8,15.0,49.4,0.32,0.12,2020,Jungle
-Barats,Tank,3.0,268,10,430,42,135,25,2709,0.81,3.0,46.12,0.1,0.42,2020,Jungle
-Cecilion,Mage,6.0,255,10,1150,34,105,20,2516,0.8,50.0,50.57,1.35,0.77,2020,Mid
-Atlas,Tank,6.0,240,10,440,42,135,21,2819,0.78,15.0,51.58,0.75,1.53,2020,Roam
-Mathilda,Support,9.0,252,10,430,36,120,22,2551,0.8,3.2,49.13,0.29,4.37,2020,Roam
-Carmilla,Support,5.0,255,10,430,39,126,25,2528,0.91,16.0,53.76,0.08,0.02,2020,Roam
-Benedetta,Assassin,7.0,260,10,460,33,128,15,2499,0.88,16.0,52.38,0.72,49.46,2020,EXP
-Brody,Marksman,7.0,253,10,435,36,140,14,2490,0.96,3.0,51.57,0.71,60.05,2020,Gold
-Yu Zhong,Fighter,7.0,245,10,430,59,129,21,2898,0.8,16.0,50.11,1.51,2.87,2020,EXP
-Luo Yi,Mage,9.0,250,10,520,36,107,20,2601,0.79,23.0,50.12,0.84,3.21,2020,Mid
-Yve,Mage,7.0,245,10,490,38,112,17,2481,0.8,20.0,52.71,0.3,4.22,2021,Mid
-Paquito,Fighter,8.0,260,10,0,39,121,22,2798,0.98,0.0,47.29,0.76,12.63,2021,EXP
-Gloo,Tank,7.0,245,15,500,13,120,18,2710,0.98,4.0,52.48,0.11,0.31,2021,EXP
-Beatrix,Marksman,7.0,257,15,0,7,110,20,2280,1.07,0.0,47.89,0.61,0.2,2021,Gold
-Phoveus,Fighter,3.0,252,15,0,11,132,25,2650,1.02,0.0,50.52,0.45,2.53,2021,EXP
-Natan,Marksman,4.0,245,15,500,6,115,17,2285,0.87,4.0,48.77,0.24,0.08,2021,Gold
-Aulus,Fighter,4.0,255,15,500,10,90,24,2580,0.92,4.0,52.87,0.34,0.55,2021,Jungle
-Aamon,Assassin,5.0,250,15,500,8,115,19,2455,1.09,4.0,48.49,0.5,0.74,2021,Jungle
-Valentina,Mage,8.0,240,15,500,7,115,21,2580,0.98,4.0,45.0,0.18,0.09,2021,Mid
-Edith,Tank,3.0,255,15,0,9,110,17,2440,0.93,0.0,52.64,0.39,0.14,2021,EXP
-Floryn,Support,1.0,240,15,500,8,119,12,2280,0.97,4.0,54.61,0.4,2.21,2021,Roam
-Yin,Fighter,4.0,252,15,0,10,109,21,2400,1.07,0.0,48.86,1.03,11.44,2022,Jungle
-Melissa,Marksman,4.0,248,15,500,7,123,18,2288,0.93,4.0,54.03,0.88,2.58,2022,Gold
-Xavier,Mage,3.0,250,15,500,7,111,15,2495,1.0,4.0,51.74,0.96,0.37,2022,Mid
-Julian,Fighter,2.0,262,15,500,8,128,24,2700,1.1,4.0,51.78,0.99,2.03,2022,Jungle
-Fredrinn,Fighter,4.0,260,15,0,7,125,20,2600,1.06,0.0,48.03,0.14,0.08,2022,Jungle
-Joy,Assassin,9.0,260,15,0,8,119,20,2519,1.12,0.0,49.58,0.55,37.53,2022,Jungle
-Novaria,Mage,6.0,240,15,500,7,115,12,2280,1.01,4.0,47.27,0.18,0.1,2023,Mid
-Arlott,Fighter,5.0,260,15,0,8,120,21,2450,1.09,0.0,47.15,0.26,0.15,2023,EXP
-Ixia,Marksman,4.0,240,15,500,8,100,17,2320,1.04,4.0,50.38,0.43,0.52,2023,Gold
-Nolan,Assassin,6.0,260,15,100,7,124,16,2390,1.08,5.0,47.28,0.43,0.88,2023,Jungle
-Cici,Fighter,2.0,260,15,0,6,129,23,2431,1.07,0.0,48.7,0.68,1.01,2023,EXP
-Chip,Tank,6.0,260,15,500,9,112,20,2481,1.03,4.0,49.44,0.1,5.77,2024,Roam
-Zhuxin,Mage,3.0,245,15,1300,7,115,20,2280,0.98,10.0,51.46,0.75,47.69,2024,Mid
-Suyou,Assassin,7.0,225,15,0,7,124,16,2390,1.08,0.0,51.79,0.98,14.06,2024,Jungle
-Lukas,Fighter,4.0,260,15,0,8,119,21,2550,1.0,0.0,50.56,1.09,42.7,2024,EXP
+hero_name,role,difficulty_overall,movement_spd,magic_defense,mana,hp_regen,physical_atk,physical_defense,hp,attack_speed,mana_regen,win_rate,pick_rate,ban_rate,release_year,lane,counter
+Eudora,Mage,4.0,250,10,468,38,112,19,2254,0.8,16.0,48.76,1.69,0.36,2016,Mid,"Kagura, Sun, Hayabusa, Karina, Franco"
+Bruno,Marksman,5.0,240,10,439,30,128,18,2522,0.85,15.0,48.95,1.15,0.11,2016,Gold,"Moskov, Alpha, Freya, Karrie, Karina"
+Bane,Fighter,5.0,260,10,422,42,117,23,2659,0.85,12.0,47.66,0.13,0.1,2016,Jungle,"Chou, Valir, Martis, Alucard, Alpha"
+Minotaur,Tank,3.0,260,10,0,44,123,23,2709,0.73,0.0,52.29,0.21,0.09,2016,Roam,"Freya, Moskov, Aurora, Nana, Alpha	"
+Hayabusa,Assassin,8.0,260,10,10,37,117,17,2629,0.85,0.0,51.72,1.56,3.44,2016,Jungle,"Saber, Minsitthar, Natalia, Kaja, Chou"
+Gord,Mage,7.0,240,10,570,32,110,13,2478,0.77,25.0,50.24,0.48,0.09,2016,Mid,"Dyrroth, Lolita, Yin, Gusion, Hayabusa	"
+Clint,Marksman,4.0,240,10,450,36,115,20,2530,0.84,15.0,49.94,0.71,0.08,2016,Gold,"Eudora, Akai, Karina, Fanny, Freya"
+Alucard,Fighter,5.0,260,10,0,39,123,21,2821,0.9,0.0,48.92,1.52,0.23,2016,Jungle,"Eudora, Saber, Fanny, Zhask, Freya"
+Alice,Mage,6.0,240,10,493,36,114,21,2573,0.8,18.0,50.23,0.37,0.24,2016,EXP,"Chou, Hanabi, Aldous, Harley, Kaja"
+Rafaela,Support,3.0,245,10,545,36,117,15,2441,0.79,23.0,49.98,0.18,0.29,2016,Roam,"Karina, Saber, Hayabusa, Natalia, Moskov"
+Fanny,Assassin,10.0,265,0,0,33,126,19,2526,0.89,0.0,49.05,0.92,4.48,2016,Jungle,"Phoveus, Chou, Eudora, Franco, Akai, Saber"
+Natalia,Assassin,6.0,250,10,486,35,121,18,2589,0.89,15.0,47.76,0.41,61.29,2016,Roam,"Saber, Jawhead, Hayabusa, Khufra, Rafaela"
+Freya,Fighter,5.0,260,10,462,49,109,22,2801,0.87,14.0,51.47,0.38,0.06,2016,EXP,"Masha, Melissa, Esmeralda, Minsitthar, Phoveus"
+Kagura,Mage,9.0,240,10,519,35,118,19,2556,0.81,21.0,53.04,0.71,0.11,2016,Mid,"Gusion, Zilong, Alucard, Akai, Hayabusa"
+Akai,Tank,4.0,260,0,422,42,115,24,2769,0.85,12.0,49.28,0.61,0.06,2016,Roam,"Diggie, Odette, Valir, Valentina, Karrie"
+Lolita,Tank,5.0,260,10,480,48,115,27,2679,0.78,12.0,56.49,0.13,0.05,2016,Roam,"Chou, Akai, Ruby, Franco, Edith"
+Miya,Marksman,3.0,240,10,445,30,129,17,2524,0.85,15.0,49.11,2.35,0.42,2016,Gold,"Natalia, Karina, Hayabusa, Clint, Fanny, Belerick"
+Zilong,Fighter,5.0,265,10,405,35,123,25,2689,0.96,16.0,48.05,2.64,0.49,2016,EXP,"Helcurt, Gatotkaca, Freya, Belerick, Jawhead"
+Franco,Tank,5.0,260,10,440,46,116,25,2709,0.82,10.0,47.64,2.56,0.52,2016,Roam,"Chou, Freya, Valir, Martis, Minsitthar"
+Karina,Assassin,7.0,260,10,431,39,121,20,2633,0.9,16.0,49.9,1.02,1.68,2016,Jungle,"Eudora, Ruby, Akai, Natalia, Franco"
+Sun,Fighter,5.0,260,10,400,41,114,23,2758,0.91,16.0,51.06,1.85,0.7,2016,EXP,"X.borg, Ruby, Silvanna, Aulus, Valir"
+Saber,Assassin,6.0,260,10,443,35,118,17,2599,0.87,16.0,46.62,1.55,0.71,2016,Jungle,"Belerick, Argus, Diggie, Valir, Hanabi"
+Chou,Fighter,6.0,260,10,0,39,121,23,2708,0.88,0.0,48.88,3.17,0.82,2016,EXP,"Silvanna, Martis, Phoveus, Minsitthar, Dyrroth"
+Tigreal,Tank,3.0,260,10,450,42,112,25,2890,0.82,12.0,49.82,3.71,1.14,2016,Roam,"Nana, Martis, Eudora, Valir, Baxia"
+Nana,Mage,4.0,250,10,510,34,115,17,2501,0.86,18.0,46.56,1.99,1.22,2016,Mid,"Silvanna, Chou, Lancelot, Hayabusa, Sun"
+Balmond,Fighter,3.0,260,10,0,47,119,25,2836,0.85,0.0,46.3,1.96,1.22,2016,Jungle,"Dyrroth, Lunox, Moskov, Alpha, Freya"
+Layla,Marksman,4.0,240,10,424,27,130,15,2500,0.85,14.0,48.09,2.79,1.32,2016,Gold,"Hayabusa, Saber, Alucard, Fanny, Natalia"
+Harley,Mage,6.0,240,10,490,36,114,19,2501,0.84,18.0,52.53,1.24,1.67,2017,Jungle,"Jawhead, Hayabusa, Saber, Eudora, Vale	"
+Hilda,Fighter,4.0,260,10,0,42,123,24,2789,0.84,0.0,47.08,0.49,0.15,2017,Roam,"Karrie, Dyrroth, Valir, Thamuz, Baxia"
+Roger,Fighter,5.0,240,10,450,36,128,22,2730,0.84,15.0,48.33,1.0,0.16,2017,Jungle,"Alucard, Aurora, Jawhead, Martis, Silvanna"
+Estes,Support,4.0,240,10,545,36,120,13,2221,0.8,18.0,51.1,0.16,0.21,2017,Roam,"Freya, Luo Yi, Baxia, Fanny, Eudora"
+Gatotkaca,Tank,7.0,260,10,420,42,120,20,2629,0.81,12.0,52.58,2.03,2.69,2017,Roam,"Eudora, Karrie, Dyrroth, X.Borg, Yin"
+Zhask,Mage,4.0,240,10,490,34,107,15,2401,0.8,20.0,52.74,0.79,2.32,2017,Mid,"Saber, Natalia, Fanny, Hayabusa, Chou"
+Yi Sun Shin,Marksman,6.0,250,10,438,36,124,18,2520,0.85,15.0,55.32,1.19,0.75,2017,Jungle,"	Karina, Eudora, Alucard, Hayabusa, Fanny"
+Pharsa,Mage,7.0,240,10,490,34,109,17,2421,0.79,18.0,47.79,1.41,0.69,2017,Mid,"Franco, Fanny, Jawhead, Harley, Helcurt"
+Odette,Mage,6.0,240,10,495,34,105,18,2491,0.8,23.0,49.19,0.75,0.16,2017,Mid,"Guinevere, Chou, Kagura, Fanny, Franco"
+Lapu Lapu,Fighter,5.0,260,10,0,35,119,21,2628,0.9,16.0,49.13,0.76,0.15,2017,EXP,"Esmeralda, Yu Zhong, Arlott, Aldous, Alpha"
+Argus,Fighter,5.0,260,10,0,40,124,21,2628,0.91,0.0,54.26,0.41,0.13,2017,EXP,"Saber, Eudora, Akai, Natalia, Kaja"
+Helcurt,Assassin,6.0,255,10,440,35,121,17,2599,0.87,16.0,48.12,0.49,33.92,2017,Jungle,"Argus, Hayabusa, Karina, Minsitthar, Natalia"
+Vexana,Mage,7.0,245,10,490,38,112,17,2481,0.8,20.0,50.47,0.1,0.04,2017,Mid,"Lylia, Chou, Natalia, Kagura, Kadita"
+Karrie,Marksman,9.0,240,10,440,40,120,17,2578,0.83,15.0,45.19,0.72,0.05,2017,Gold,"Hayabusa, Karina, Chou, Lolita, Natalia"
+Aurora,Mage,6.0,240,10,750,34,110,17,2501,0.8,23.0,47.93,0.23,0.03,2017,Mid,"Guinevere, Natalia, Hayabusa, Chou, Kagura"
+Ruby,Fighter,7.0,260,0,430,30,114,23,2859,0.85,14.0,52.32,0.51,0.05,2017,EXP,"X.borg, Yin, Phoveus, Valir, Baxia"
+Moskov,Marksman,7.0,240,10,420,32,125,16,2455,0.81,15.0,49.27,0.48,0.06,2017,Gold,"Chou, Saber, Natalia, Badang, Ling"
+Johnson,Tank,5.0,255,10,0,42,115,27,2809,0.82,12.0,51.19,1.43,32.52,2017,Roam,"Esmeralda, Zhask, Jawhead, Diggie, Grock"
+Hylos,Tank,3.0,260,10,430,92,105,17,3309,0.82,12.0,53.4,0.75,0.08,2017,Roam,"Karrie, Valir, Lesley, Kimmy, Baxia"
+Alpha,Fighter,7.0,260,10,453,39,121,20,2646,0.96,31.0,48.5,0.25,0.04,2017,Jungle,"Freya, Thamuz, Valir, Baxia, Minsitthar"
+Irithel,Marksman,7.0,260,10,438,35,118,17,2540,0.82,15.0,51.52,0.38,0.03,2017,Gold,"Natalia, Freya, Helcurt, Kagura, Hayabusa"
+Cyclops,Mage,6.0,240,10,500,38,112,18,2521,0.8,20.0,52.03,1.07,0.1,2017,Mid,"Ling, Alice, Lancelot, Natalia, Harley"
+Lancelot,Assassin,7.0,260,10,450,35,124,16,2549,0.85,16.0,46.71,1.42,24.88,2017,Jungle,"Fanny, Grock, Saber, Argus, Yin"
+Grock,Tank,4.0,260,10,430,42,135,21,2819,0.81,12.0,47.69,0.14,0.02,2017,Roam,"Hylos, X.Borg, Harley, Karrie, Dyrroth"
+Diggie,Support,3.0,250,10,490,36,115,16,2351,0.8,20.0,53.93,0.25,3.84,2017,Roam,"Aldous, Lancelot, Hayabusa, Helcurt, Natalia"
+Angela,Support,3.0,240,10,515,34,115,15,2421,0.79,18.0,48.5,1.53,1.36,2018,Roam,"Lancelot, Lesley, Harley, Kagura, Natalia"
+Minsitthar,Fighter,3.0,260,10,380,37,121,23,2698,0.85,16.0,50.54,0.17,0.03,2018,EXP,"Martis, Yin, Grock, Akai, Natalia"
+Thamuz,Fighter,6.0,250,10,0,37,107,22,2758,0.84,0.0,47.39,0.33,0.03,2018,EXP,"X.borg, Aldous, Valir, Baxia, Cici"
+Leomord,Fighter,6.0,240,10,0,35,126,21,2738,0.84,0.0,50.1,0.31,0.03,2018,Jungle,"Jawhead, Chou, Alpha, Minsitthar, Melissa"
+Claude,Marksman,9.0,240,10,450,40,97,14,2370,0.82,16.0,51.76,1.33,0.98,2018,Gold,"Popol and Kupa, Hayabusa, Selena, Fanny, Natalia"
+Chang'e,Mage,7.0,240,10,505,34,115,16,2301,0.8,21.0,52.9,2.07,0.93,2018,Mid,"Saber, Chou, Lolita, Jawhead, Baxia	"
+Lunox,Mage,7.0,240,10,540,34,115,15,2521,0.8,23.0,49.54,0.24,0.03,2018,Mid,"Helcurt, Claude, Lancelot, Gusion, Leomord"
+Martis,Fighter,5.0,260,10,0,35,128,25,2738,0.86,0.0,45.0,0.15,0.02,2018,Jungle,"Phoveus, Kaja, Franco, Minsitthar, Baxia"
+Jawhead,Fighter,8.0,255,10,430,39,119,24,2778,0.9,16.0,50.91,1.59,1.72,2018,EXP,"Kagura, Sun, Fanny, Martis, Valir"
+Hanzo,Assassin,6.0,260,10,0,35,118,17,2594,0.87,0.0,50.63,0.39,11.32,2018,Jungle,"Ling, Natalia, Fanny, Aldous, Helcurt"
+Uranus,Tank,5.0,260,10,455,32,115,20,2489,0.83,12.0,49.37,0.69,0.51,2018,EXP,"Karrie, Odette, Dyrroth, Baxia, Valir"
+Gusion,Assassin,9.0,260,10,460,39,119,18,2578,0.89,16.0,49.7,1.75,2.8,2018,Jungle,"Minsitthar, Lolita, Ling, Khufra, Sun"
+Hanabi,Marksman,6.0,245,10,390,30,105,17,2510,0.85,15.0,52.41,2.04,0.5,2018,Gold,"Natalia, Fanny, Hayabusa, Nolan, Karina"
+Belerick,Tank,4.0,250,10,450,42,110,15,2719,0.81,12.0,52.56,0.41,0.05,2018,Roam,"Dyrroth, X.Borg, Karrie, Martis, Thamuz"
+Lesley,Marksman,6.0,240,10,0,36,131,14,2490,0.82,0.0,48.92,1.94,0.4,2018,Gold,"Esmeralda, Harley, Helcurt, Natalia, Karina"
+Harith,Mage,8.0,240,10,490,36,114,19,2701,0.84,18.0,47.92,0.31,0.06,2018,Mid,"Minsitthar, Esmeralda, Kaja, Franco, Phoveus"
+Kadita,Mage,7.0,240,10,495,36,105,18,2491,0.8,18.0,50.85,0.51,0.32,2018,Mid,"Helcurt, Natalia, Minsitthar, Baxia, Kaja"
+Selena,Assassin,7.0,240,10,490,34,110,15,2401,0.8,18.0,51.22,1.31,2.76,2018,Mid,"Wanwan, Saber, Benedetta, Diggie, Valir"
+Valir,Mage,6.0,245,10,495,34,105,20,2516,0.8,18.0,50.04,0.63,0.16,2018,Mid,"Lancelot, Kaja, Akai, Franco, Hayabusa"
+Kaja,Support,6.0,270,10,400,52,120,16,2609,0.84,12.0,51.6,0.17,0.11,2018,Roam,"Helcurt, Grock, Akai, Martis, Gusion"
+Kimmy,Marksman,7.0,245,10,100,40,104,22,2570,0.82,0.0,54.21,0.16,0.04,2018,Gold,"Chou, Aldous, Hayabusa, Lancelot, Lolita"
+Aldous,Fighter,7.0,260,10,405,49,129,21,2718,0.83,18.0,51.69,1.15,10.22,2018,EXP,"Akai, Melissa, Chou, Kadita, Kaja"
+Esmeralda,Mage,4.0,240,10,502,36,114,21,2573,0.8,20.0,49.14,1.25,42.29,2019,EXP,"Karrie, Thamuz, Dyrroth, Valir, Baxia"
+Vale,Mage,7.0,250,10,490,34,115,15,2401,0.8,21.0,51.73,1.88,2.24,2019,Mid,"Chou, Helcurt, Harley, Lancelot, Fanny"
+Wanwan,Marksman,8.0,230,10,424,27,100,15,2540,0.82,14.0,53.26,1.62,20.35,2019,Gold,"Natalia, Esmeralda, Lunox, Kaja, Lolita"
+Khufra,Tank,5.0,255,10,460,47,117,19,2859,0.78,15.0,51.46,0.98,2.76,2019,Roam,"Baxia, Minsitthar, Wanwan, Valir, Diggie"
+Terizla,Fighter,6.0,255,10,430,54,129,19,2728,0.8,21.0,47.0,0.15,0.02,2019,EXP,"Valir, Dyrroth, Lunox, Karrie, X.borg"
+Guinevere,Fighter,7.0,260,0,0,39,126,18,2528,0.91,0.0,50.79,2.58,10.02,2019,EXP,"Selena, Wanwan, Diggie, Valir, Fanny"
+X.Borg,Fighter,7.0,260,10,0,39,117,25,1138,0.86,0.0,48.76,0.99,0.07,2019,EXP,"Lunox, Chou, Esmeralda, Wanwan, Natalia"
+Dyrroth,Fighter,6.0,265,10,0,41,117,2,2758,0.91,0.0,46.11,0.87,0.07,2019,EXP,"Guinevere, Esmeralda, Phoveus, Chou, Minsitthar"
+Faramis,Support,6.0,245,10,500,34,118,20,2543,0.78,19.0,50.29,0.05,0.07,2019,Mid,"X.borg, Lylia, Gusion, Wanwan, Pharsa"
+Lylia,Mage,6.0,245,10,500,34,113,17,2501,0.8,19.0,53.62,0.4,0.08,2019,Mid,"Guinevere, X.Borg, Dyrroth, Franco, Kaja"
+Masha,Fighter,7.0,250,10,0,19,101,12,1948,0.8,0.0,54.13,0.3,0.09,2019,EXP,"Belerick, Thamuz, Sun, Lunox, Dyrroth"
+Ling,Assassin,8.0,260,10,0,39,125,18,2578,0.81,0.0,48.18,0.46,11.24,2019,Jungle,"Valir, Khufra, Akai, Chou, Gusion"
+Baxia,Tank,7.0,240,10,422,42,125,23,2769,0.8,15.0,53.55,0.44,0.1,2019,Jungle,"Gusion, Grock, Lesley, Harley, Kagura"
+Silvanna,Fighter,4.0,255,10,430,39,126,22,2828,0.91,16.0,52.65,3.06,9.59,2019,EXP,"Wanwan, X.Borg, Baxia, Franco, Chou"
+Badang,Fighter,6.0,255,10,0,40,119,23,2708,0.9,0.0,49.78,1.06,0.14,2019,EXP,"Chou, Benedetta, Aldous, Edith, Argus"
+Granger,Marksman,6.0,240,10,0,27,110,15,2490,0.81,0.0,47.37,1.43,0.17,2019,Jungle,"Helcurt, Selena, Guinevere, Gusion, Saber"
+Khaleed,Fighter,8.0,250,10,0,35,109,23,2778,0.8,0.0,52.44,0.39,0.1,2020,EXP,"Atlas, Yu Zhong, Kimmy, Helcurt, Cecilion"
+Popol and Kupa,Marksman,7.0,240,10,445,30,98,17,2225,0.8,15.0,49.4,0.32,0.12,2020,Jungle,"Nolan, Natalia, Gusion, Silvanna, Esmeralda"
+Barats,Tank,3.0,268,10,430,42,135,25,2709,0.81,3.0,46.12,0.1,0.42,2020,Jungle,"X.borg, Karrie, Esmeralda, Valir, Angela"
+Cecilion,Mage,6.0,255,10,1150,34,105,20,2516,0.8,50.0,50.57,1.35,0.77,2020,Mid,"Lunox, Chou, Yin, Ling, X.Borg"
+Atlas,Tank,6.0,240,10,440,42,135,21,2819,0.78,15.0,51.58,0.75,1.53,2020,Roam,"Valir, Karrie, Diggie, Kaja, Akai"
+Mathilda,Support,9.0,252,10,430,36,120,22,2551,0.8,3.2,49.13,0.29,4.37,2020,Roam,"Baxia, Franco, Wanwan, Vale, Badang"
+Carmilla,Support,5.0,255,10,430,39,126,25,2528,0.91,16.0,53.76,0.08,0.02,2020,Roam,"Harith, Zilong, Wanwan, Baxia, Sun"
+Benedetta,Assassin,7.0,260,10,460,33,128,15,2499,0.88,16.0,52.38,0.72,49.46,2020,EXP,"Guinevere, Khufra, Phoveus, Minsitthar, Kaja"
+Brody,Marksman,7.0,253,10,435,36,140,14,2490,0.96,3.0,51.57,0.71,60.05,2020,Gold,"Ling, Hayabusa, Karina, Saber, Eudora"
+Yu Zhong,Fighter,7.0,245,10,430,59,129,21,2898,0.8,16.0,50.11,1.51,2.87,2020,EXP,"Karrie, Dyrroth, Moskov, Thamuz, Valentina"
+Luo Yi,Mage,9.0,250,10,520,36,107,20,2601,0.79,23.0,50.12,0.84,3.21,2020,Mid,"Natalia, Hayabusa, Gusion, Franco, Chou"
+Yve,Mage,7.0,245,10,490,38,112,17,2481,0.8,20.0,52.71,0.3,4.22,2021,Mid,"Helcurt, Nana, Natalia, Franco, Kaja"
+Paquito,Fighter,8.0,260,10,0,39,121,22,2798,0.98,0.0,47.29,0.76,12.63,2021,EXP,"Argus, Phoveus, Khufra, Sun, Minsitthar"
+Gloo,Tank,7.0,245,15,500,13,120,18,2710,0.98,4.0,52.48,0.11,0.31,2021,EXP,"Yu Zhong, Lancelot, Faramis, Vexana, Wanwan"
+Beatrix,Marksman,7.0,257,15,0,7,110,20,2280,1.07,0.0,47.89,0.61,0.2,2021,Gold,"Benedetta, Paquito, Gusion, Franco, Hayabusa"
+Phoveus,Fighter,3.0,252,15,0,11,132,25,2650,1.02,0.0,50.52,0.45,2.53,2021,EXP,"Layla, Baxia, Yve, Esmeralda, Minsitthar"
+Natan,Marksman,4.0,245,15,500,6,115,17,2285,0.87,4.0,48.77,0.24,0.08,2021,Gold,"Hayabusa, Saber, Melissa, Lolita, Chou"
+Aulus,Fighter,4.0,255,15,500,10,90,24,2580,0.92,4.0,52.87,0.34,0.55,2021,Jungle,"Phoveus, Masha, Jawhead, Valir, Wanwan"
+Aamon,Assassin,5.0,250,15,500,8,115,19,2455,1.09,4.0,48.49,0.5,0.74,2021,Jungle,"Saber, Paquito, X.borg, Gusion, Hayabusa"
+Valentina,Mage,8.0,240,15,500,7,115,21,2580,0.98,4.0,45.0,0.18,0.09,2021,Mid,"Wanwan, Alice, Sun, Gusion, Kagura"
+Edith,Tank,3.0,255,15,0,9,110,17,2440,0.93,0.0,52.64,0.39,0.14,2021,EXP,"Aamon, Thamuz, Beatrix, Minsitthar, Wanwan"
+Floryn,Support,1.0,240,15,500,8,119,12,2280,0.97,4.0,54.61,0.4,2.21,2021,Roam,"Eudora, Kagura, Paquito, X.Borg, Natan"
+Yin,Fighter,4.0,252,15,0,10,109,21,2400,1.07,0.0,48.86,1.03,11.44,2022,Jungle,"Thamuz, Sun, Argus, Jawhead, Valir"
+Melissa,Marksman,4.0,248,15,500,7,123,18,2288,0.93,4.0,54.03,0.88,2.58,2022,Gold,"Franco, X.Borg, Martis, Yu Zhong, Hayabusa"
+Xavier,Mage,3.0,250,15,500,7,111,15,2495,1.0,4.0,51.74,0.96,0.37,2022,Mid,"Helcurt, Fanny, Chou, Gusion, Lancelot"
+Julian,Fighter,2.0,262,15,500,8,128,24,2700,1.1,4.0,51.78,0.99,2.03,2022,Jungle,"Aamon, Helcurt, Paquito, Yu Zhong, Roger"
+Fredrinn,Fighter,4.0,260,15,0,7,125,20,2600,1.06,0.0,48.03,0.14,0.08,2022,Jungle,"Valentina, Saber, Lunox, Faramis, Eudora"
+Joy,Assassin,9.0,260,15,0,8,119,20,2519,1.12,0.0,49.58,0.55,37.53,2022,Jungle,"Minsitthar, Phoveus, Franco, Kaja, Barats"
+Novaria,Mage,6.0,240,15,500,7,115,12,2280,1.01,4.0,47.27,0.18,0.1,2023,Mid,"Lolita, Yuzhong, Natalia, Ling, Fanny"
+Arlott,Fighter,5.0,260,15,0,8,120,21,2450,1.09,0.0,47.15,0.26,0.15,2023,EXP,"Martis, Chou, Minsitthar, Kaja, Thamuz"
+Ixia,Marksman,4.0,240,15,500,8,100,17,2320,1.04,4.0,50.38,0.43,0.52,2023,Gold,"Lolita, Karrie, Moskov, Hanabi, Claude"
+Nolan,Assassin,6.0,260,15,100,7,124,16,2390,1.08,5.0,47.28,0.43,0.88,2023,Jungle,"Phoveus, Khufra, Franco, Minsitthar, Gatotkaca"
+Cici,Fighter,2.0,260,15,0,6,129,23,2431,1.07,0.0,48.7,0.68,1.01,2023,EXP,"Ling, Lancelot, Saber, Akai, Yve"
+Chip,Tank,6.0,260,15,500,9,112,20,2481,1.03,4.0,49.44,0.1,5.77,2024,Roam,"Baxia, Wanwan, Moskov, Lesley, Franco"
+Zhuxin,Mage,3.0,245,15,1300,7,115,20,2280,0.98,10.0,51.46,0.75,47.69,2024,Mid,"Hayabusa, Lancelot, Ling, Natalia, Saber	"
+Suyou,Assassin,7.0,225,15,0,7,124,16,2390,1.08,0.0,51.79,0.98,14.06,2024,Jungle,"Thamuz, X.Borg, Yin, Kaja, Franco"
+Lukas,Fighter,4.0,260,15,0,8,119,21,2550,1.0,0.0,50.56,1.09,42.7,2024,EXP,"Dyrroth, Yu Zhong, Freya, Martis, Thamuz"
